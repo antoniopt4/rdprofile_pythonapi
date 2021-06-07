@@ -1,3 +1,4 @@
+python==3.8.2
 free_proxy==1.0.2
 numpy==1.20.2
 pymongo==3.11.3
